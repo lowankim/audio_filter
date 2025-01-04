@@ -4,7 +4,7 @@ import base64
 
 
 def main():
-    # Define the API endpoint URL
+    # Define the API endpoint
     api_url = 'http://localhost:9000/2015-03-31/functions/function/invocations'
 
     # Path to the local .wav file you want to send
